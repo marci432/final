@@ -1,0 +1,1 @@
+full egyszeru python print
